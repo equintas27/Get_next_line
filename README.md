@@ -11,7 +11,6 @@ Projeto da 42 School que ensina manipulação de leitura de ficheiros, buffers, 
   - Leitura de ficheiros;
   - Alocação dinâmica de memória;
   - Vazamento de memória(aprendi a trabalhar com o valgrind);
-  - 
 - Trabalha com o "BUFFER_SIZE" definido em tempo de compilação.
 - Versão bónus : leitura em múltiplos file descriptors ao mesmo tempo.
 
